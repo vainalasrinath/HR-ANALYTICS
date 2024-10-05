@@ -1,5 +1,3 @@
-![PowerBI-Banner](https://www.venturess.com/images/product/Power_BI/power_bi_banner.jpg)
-
 # Project Title: HR Analytics Dashboard - A Power BI Project 📊
 
 The HR Analytics Dashboard project aims to leverage simulated datasets representing diverse facets of a company's human resources activities to develop an insightful Power BI Dashboard. The primary objective is to showcase proficiency in cleansing, analyzing, transforming, modeling, visualizing, and deriving actionable insights from HR-related data using Power BI.
@@ -46,28 +44,37 @@ This repository is designed to facilitate efficient data analysis workflows, fro
 
 
 ## Dashboard 📸📸
-![Power BI](images/1.png)
+<img width="673" alt="image" src="https://github.com/user-attachments/assets/408962aa-c6a0-48ca-93ed-2263886dd7b2">
+
 
 The HR Analytics Dashboard features a refined monochromatic design, ensuring visual consistency and clarity with a single color palette. This minimalist approach allows users to focus on key HR metrics and insights without distractions, promoting ease of use and accessibility. With its sleek presentation, the dashboard empowers HR professionals with actionable insights for informed decision-making and strategic initiatives within the organization.
 
 ### Gender Analysis
-![Power BI](images/2.png)
-![Power BI](images/3.png)
+
+<img width="676" alt="image" src="https://github.com/user-attachments/assets/490f899c-9f65-4428-8a57-3b97518b5a49"> 
+<img width="658" alt="image" src="https://github.com/user-attachments/assets/ad1bcf41-fbc7-4442-bc2b-a6d61901e194">
+
+
 
 ### Job Title - Production Operator
-![Power BI](images/4.png)
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/9f2562c9-359a-477f-b1c8-e0598a390f67">
+
 
 ### Job Title - Research Analyst
-![Power BI](images/5.png)
+<img width="675" alt="image" src="https://github.com/user-attachments/assets/e29b166c-9f8f-4253-b6a6-220adf13e5fb">
+
 
 ### Employees between the age of 20-25
-![Power BI](images/6.png)
+<img width="656" alt="image" src="https://github.com/user-attachments/assets/c1da28cc-615e-41db-8198-c2881c1462b6">
+
 
 ### Information about the Employee named Kaine Padly
-![Power BI](images/7.png)
+<img width="676" alt="image" src="https://github.com/user-attachments/assets/bfa6e19a-a3fa-4fc2-94ce-bbece975de5e">
+
 
 ### Date of Joining of Kaine Padly
-![Power BI](images/8.png)
+<img width="673" alt="image" src="https://github.com/user-attachments/assets/15548b3b-333b-46ad-8bef-3c6acdca16d7">
+
 
 ## Technologies Used 💻🔧
 Microsoft Power BI
@@ -78,13 +85,4 @@ Microsoft Power Query
 
 DAX
 
-
-
-## HR Analytics Dashboard Demo 💻
-
-[![HR Analytics Dashboard Demo](https://img.youtube.com/vi/5KaIU-9EF-0/0.jpg)](https://www.youtube.com/watch?v=5KaIU-9EF-0)
-
-This HR Analytics Dashboard was created with assistance from the video linked above.
-
-*Video Credit: [Chandoo](https://www.youtube.com/@chandoo_)*
 
